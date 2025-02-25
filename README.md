@@ -26,6 +26,7 @@ I am studying Informatics engineering at the university. 🎓
 <img height="50" src="https://camo.githubusercontent.com/86f61f7d4367c71a580e11af0bcd4f333d1b967225a679a12998657db1307dd3/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67">
 <br>
 <img height="50" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png">
+<img width="10">
 <img height="60" src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-9-1175120.png">
 </div>
 
